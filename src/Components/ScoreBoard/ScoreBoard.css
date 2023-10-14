@@ -36,3 +36,65 @@
 {
     border-bottom: 3px solid blue;
 }
+
+
+@media screen and (max-width : 1360px)
+{
+  .scoreboard {
+    width: 25%;
+  }
+}
+@media screen and (max-width : 1090px)
+{
+  .scoreboard {
+    width: 30%;
+  }
+}
+@media screen and (max-width : 910px)
+{
+  .scoreboard {
+    width: 35%;
+  }
+}
+@media screen and (max-width : 780px)
+{
+  .scoreboard {
+    width: 40%;
+  }
+}
+@media screen and (max-width : 690px)
+{
+  .scoreboard {
+    width: 50%;
+  }
+}
+@media screen and (max-width : 555px)
+{
+  .scoreboard {
+    width: 60%;
+  }
+}
+@media screen and (max-width : 470px)
+{
+  .scoreboard {
+    width: 70%;
+  }
+}
+@media screen and (max-width : 400px)
+{
+  .scoreboard {
+    width: 80%;
+  }
+}
+@media screen and (max-width : 360px)
+{
+  .scoreboard {
+    width: 90%;
+  }
+}
+@media screen and (max-width : 315px)
+{
+  .scoreboard {
+    width: 95%;
+  }
+}
