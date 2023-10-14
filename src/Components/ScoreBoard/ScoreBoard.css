@@ -1,0 +1,38 @@
+.scoreboard
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #888;
+    width: 20%;
+    margin: 3rem auto;
+    font-weight: bold;
+    font-size: 22px;
+}
+.x-score
+{
+    color: red;
+    width: 100%;
+    padding: 15px;
+}
+.o-score
+{
+    color: blue;
+    width: 100%;
+    padding: 15px;
+}
+.tie-score
+{
+    color: black;
+    width: 100%;
+    padding: 15px;
+}
+.xplay
+{
+    border-bottom: 3px solid red;
+}
+.oplay
+{
+    border-bottom: 3px solid blue;
+}
