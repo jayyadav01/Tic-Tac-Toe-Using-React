@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import './ScoreBoard.css'
 
 const ScoreBoard = ({XScore,OScore,Tie,Playing}) => {
